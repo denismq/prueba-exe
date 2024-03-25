@@ -1,0 +1,14 @@
+.section{
+    &--home{
+        padding-top: 32px;
+        padding-bottom: 97px;
+        position: relative;
+    }
+    &--summary{
+        .plans{
+            .headline{
+                text-align: left;
+            }
+        }
+    }
+}
